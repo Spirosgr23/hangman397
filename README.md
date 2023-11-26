@@ -9,7 +9,7 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [License](#license)
-- [Use of Functions in Hangman] (#Use-of-Functions-in-Hangman)
+- [Use of Functions in Hangman](#use-of-functions-in-hangman)
 
 ## Project Description
 This project is an implementation of the classic game Hangman. In this version, the computer selects a word at random from a predefined list of fruits, and the user attempts to guess it one letter at a time. This project serves not only as a fun and interactive game but also as an opportunity to learn and implement basic programming concepts in Python, including lists, user input handling, conditional statements, and the use of the `random` module.
